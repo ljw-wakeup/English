@@ -1,0 +1,50 @@
+﻿Hello, everyone.Today,we are going to introduce a branch in biotechnology
+to you. As you see, it is the Nano Medical Robot.
+
+Our presentation will be divided into four parts. They are the GENERAL
+INTRODUACTION, DIFFRENT ROBOTS, THE KEY TECHNOLOGY, 
+ABOUT FUTURE AND PHILOSPPHY.
+
+ I am going to show the first part -general 
+introduction to you.
+
+
+The science of future is nothing more than continuing to march to the 
+macro-world and the micro-world. Albert Enstein once said.
+
+So ,let's step into one of the micro-world in biological field:
+NANO MEDICAL ROBOT.
+
+Richard Feynman, the Nobel laureate and the theoretical physicist pineered 
+the idea of nanotechnology.
+He once said:"Humans will be apply the robots in Nanometer level
+to the medical field.
+ 
+With the development of the secience and technology, his ideas are coming
+true gradully.
+ 
+So what is the definition of the Nano medical robot?
+The Nano medical robot is a micro robot which is consist of thousands of
+mechanical parts, operated with program, entering the human body 
+to complete some appointed tasks.
+
+Oh lets see the picture.It show the inner structures of the robot.
+I will introduce one by one.
+THE HEAD
+It’s head is a micro-camera, which is used to follow up a discovery.
+PAYLOAD
+It is something carried by this micro robot, 
+usually some medicine or some special materials
+CAPACITOR
+It is used to provide energy for the tail or arms. 
+SWIMMING TAIL
+The micro robot is moved by the swimming tail.
+But now, there are many new methods like using ultrasonic .
+
+
+so what dose they do?
+they can find out the cancer cell or the virus and then kill them .
+and they may become a cleaner to clean the redundant fat in vessel.
+Sometimes, they carry some special material and change tne components 
+in cells instead of destroy them. When they do their task, they always
+disguise as the normal cells in order to keep themselves safe.
